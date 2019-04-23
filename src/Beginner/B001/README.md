@@ -5,11 +5,11 @@
 Given a base-10 integer, n , convert it to binary (base-2). Then find and return the  integer denoting the maximum number of consecutive 1's in n's binary representation.
 
 ### input format
-``sh
+```bash
 A single integer, n
 ```
 ### Constraints
-``sh
+```bash
 n >= 1 && n <= 10^6
 ```
 
@@ -18,11 +18,11 @@ A single integer
 
 ## Example
 ### input
-``sh
+```bash
 13
 ```
 ### output should be
-``sh
+```bash
 2
 ```
 ### Explanation
