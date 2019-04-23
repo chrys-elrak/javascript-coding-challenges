@@ -1,0 +1,31 @@
+{
+  "name": "javascript-coding-challenges",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./src/**/*.test.js"
+  },
+  "keywords": [
+    "computer-science",
+    "cs",
+    "algorithms",
+    "data-structures",
+    "javascript",
+    "algorithm",
+    "javascript-algorithms",
+    "sorting-algorithms",
+    "graph",
+    "tree",
+    "interview",
+    "interview-preparation"
+  ],
+  "author": "Mohsen Barati (https://www.linkedin.com/in/mohsenbarati/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohsen1932/javascript-coding-challenges/issues"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
