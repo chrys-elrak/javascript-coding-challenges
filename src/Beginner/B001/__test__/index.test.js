@@ -45,7 +45,7 @@ describe("B001", function() {
     }
   ];
 
-  it("should return expected response for " + expected[i].input, function() {
+  it("should return expected response ", function() {
     for (let i = 0; i < expected.length; i++) {
       assert.equal(index.Main(expected[i].input), expected[i].output);
     }
